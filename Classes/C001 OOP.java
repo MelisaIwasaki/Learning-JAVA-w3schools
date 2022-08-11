@@ -26,7 +26,9 @@ OOP hace posible crear aplicaciones reutilizables completas con menos código y 
 
 Entonces, una clase es una plantilla para objetos y un objeto es una instancia de clases.
 
-Cuando se crean los objetos individuales,heredan todas las variables y métodos de la clase.*/
+Cuando se crean los objetos individuales,heredan todas las variables y métodos de la clase.
+
+Una clase es como un constructor de objetos o un "modelo" para crear objetos.*/
 
 
 
