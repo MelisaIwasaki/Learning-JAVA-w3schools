@@ -30,6 +30,17 @@ Cuando se crean los objetos individuales,heredan todas las variables y métodos 
 
 Una clase es como un constructor de objetos o un "modelo" para crear objetos.*/
 
+/*OOP オブジェクト指向プログラミング
+
+オブジェクト指向プログラミングには、手続き型プログラミングよりもいくつかの利点があります。
+OOP より早く、より簡単に実行する。。
+OOP　プログラムに明確な構造を提供する。。
+OOP　Javaコードをドライに保つのに役立ち、「リピートしないように」コードの保守、変更、およびデバッグを容易する。
+OOP　より少ないコードと短い開発時間で完全に再利用可能なアプリケーションを作成できる。
+
+クラスはオブジェクトのテンプレートであり、オブジェクトはクラスのインスタンスです。
+
+クラスはオブジェクトコンストラクター、又はオブジェクトを作成するための「ブループリント」のようなものです。*/
 
 
 //Create an objects called "myObj" and print the value of x. 
