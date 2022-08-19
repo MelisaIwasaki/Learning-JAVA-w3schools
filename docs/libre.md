@@ -16,7 +16,8 @@
 | default | The code is only accessible in the same package. This is used when you don't specify a modifier. |
 | protected | The code is accessible in the same package and subclasses |
 
-![buho](https://user-images.githubusercontent.com/92184167/184501548-b9d3bc3f-527d-4848-800b-b6c97c391695.jpg)
+![photo-1529456589219-228196a9c50d](https://user-images.githubusercontent.com/92184167/185716366-d17ec53a-57db-4dcb-bc53-765111a9b9aa.jpg)
+
 
 # Non-Access Modifiers
 
@@ -39,5 +40,6 @@
 | volatile | The value of an attribute is not cached thread-locally, and is always read from the "main memory" |
 
 
-![jijo](https://user-images.githubusercontent.com/92184167/184501572-8ef6b616-6266-4119-bf14-1b655b7e9fd4.jpg)
+![shepherd-dog-gec2afbd9d_640](https://user-images.githubusercontent.com/92184167/185716384-e8b27ef9-763b-4e6c-bff4-efbb2c8e1ff0.jpg)
+
 
